@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Walery, a  frontend developer 👨‍💻 since 2021 🚀
+### <div align="center">I'm Walery, a  frontend developer 👨‍💻 since 2022 🚀
 Experienced and goal-oriented professional with a strong background in team leadership. I excel in
 driving teams towards achieving objectives and possess solid knowledge of HTML/CSS , Javascript
 and React. I demonstrate the ability to quickly learn new technologies and have an illustrated
