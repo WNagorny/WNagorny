@@ -3,13 +3,12 @@
 </div>  
   
 
-### <div align="center">I'm Walery, a  frontend developer 👨‍💻 since 2022 🚀
-Experienced and goal-oriented professional with a strong background in team leadership. I excel in
-driving teams towards achieving objectives and possess solid knowledge of HTML/CSS , Javascript
-and React. I demonstrate the ability to quickly learn new technologies and have an illustrated
-success in identifying and resolving complex code issues. Transitioning into a new role as a
-frontend developer,I aim to leverage acquired skills to contribute to innovative projects and deliver
-exceptional results.
+### <div align="center">I'm Walery, a  frontend developer 👨‍💻 
+As an ambitious Frontend Developer with a solid foundation in JavaScript and React, I have gained experience working on
+various projects. Overall, I am confident that my passion for programming, combined with my experience in team leadership
+and strong work ethic, make me a valuable asset to any organization. I look forward to continuing to grow as a developer and
+contributing to exciting projects that make a meaningful impact.
+
 
 🌱 Seeking New Challenges.
 
@@ -17,7 +16,9 @@ I'm currently on the lookout for new challenges and exciting opportunities that 
 
  🚀 Joining Your Team
 
-If your company values innovation, teamwork, and a passion for technology, I would be thrilled to contribute my skills and collaborate with your talented team.
+In conclusion, if you have any questions or would like to learn more about me, or if you believe I could be a valuable addition
+to your team, please feel free to reach out. Together, we can explore how we can mutually support each other.
+
 </div>  
   
 
